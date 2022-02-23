@@ -1,1 +1,4 @@
-# bounties
+# Bounties
+
+Ethereum Magicians Bounties
+
